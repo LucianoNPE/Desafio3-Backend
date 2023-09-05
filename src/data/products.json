@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Remera Huoky ",
+        "description": "Talle S a XL",
+        "price": 8000,
+        "thumbnail": "img", 
+        "code": "HUO1",
+        "stock": 3
+
+    },
+    {
+        "id": 2,
+        "title": "Remera Lacoste",
+        "description": "Talle S a XL",
+        "price": 5000,
+        "thumbnail": "img",
+        "code": "LAC1",
+        "stock": 4
+    },
+    {
+        "id": 3,
+        "title": "Remera Lacoste",
+        "description": "Talle S a XXL",
+        "price": 6500,
+        "thumbnail": "img",
+        "code": "LAC2",
+        "stock": 5
+    },
+    {
+        "id": 4,
+        "title": "Remera Essentials",
+        "description": "Talle S a XL",
+        "price": 12000,
+        "thumbnail": "img",
+        "code": "ESS1",
+        "stock": 3
+    },
+    {
+        "id": 5,
+        "title": "Remera Essentials",
+        "description": "Talle M a XL",
+        "price": 12700,
+        "thumbnail": "img",
+        "code": "ESS2",
+        "stock": 2
+        
+    },
+    {
+        "id": 6,
+        "title": "Remera Huoky",
+        "description": "Talle S a XXL",
+        "price": 7000,
+        "thumbnail": "img",
+        "code": "HUO2",
+        "stock": 3
+    }
+]
